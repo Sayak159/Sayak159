@@ -62,6 +62,7 @@ Construir uma carreira em Cibersegurança, aplicando conhecimentos em programaç
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </p>
+
 ---
 
 # Projetos
